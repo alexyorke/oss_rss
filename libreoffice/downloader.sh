@@ -1,9 +1,9 @@
 #!/bin/bash
 sudo apt-get install -y rsync;
-find .;
+echo $(find .);
 timestamp=$(curl "http://download.documentfoundation.org/TIMESTAMP");
 if [[ $(< TIMESTAMP) != "$timestamp" ]]; then
-    echo "$timestamp" > oss_rss/libreoffice/TIMESTAMP;
+        echo "$timestamp" > oss_rss/libreoffice/TIMESTAMP;
 	N=15;
 	(
 	while read -r url;
