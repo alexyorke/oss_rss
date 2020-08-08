@@ -16,7 +16,7 @@ if [[ $(< ./libreoffice/TIMESTAMP) != "$timestamp" ]]; then
 	done < <(rsync --dry-run -avz rsync://rsync.documentfoundation.org/tdf-pub/ | awk '{print $5}' | sed -e 's/.*/http:\/\/download.documentfoundation.org\/&\.torrent/')
 	) > ./libreoffice/all_torrent_links.txt;
 	sort -uo ./libreoffice/all_torrent_links.txt ./libreoffice/all_torrent_links.txt;
-	sed 's/\.torrent/\.magnet/g' ./libreoffice/all_torrent_links.txt > ./libreoffice/all_torrent_links.txt;
+	sed 's/\.torrent/\.magnet/g' ./libreoffice/all_torrent_links.txt > ./libreoffice/all_magnet_links.txt;
 
 	# html links
 	sed 's/.*/\<a href=\"&\"\>&\<\/a\>/' ./libreoffice/all_torrent_links.txt > ./libreoffice/all_torrent_links.html;
