@@ -21,14 +21,14 @@ jobs:
         run: sudo apt-get -y install rsync
       - uses: actions/checkout@v2
         with:
-          path: "./oss_rss"
+          path: "."
       - name: Run downloader
         run: bash <(curl -s https://raw.githubusercontent.com/alexyorke/oss_rss/master/libreoffice/downloader.sh)
       - uses: EndBug/add-and-commit@v4
         with:
           message: "Update LibreOffice"
           add: "*"
-          cwd: "./oss_rss"
+          cwd: "."
           force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
