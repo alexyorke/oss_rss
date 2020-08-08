@@ -17,8 +17,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Install rsync
+        run: sudo apt-get -y install rsync
     # Runs a single command using the runners shell
-    - name: remote-bash
-      uses: shinhwagk/remote-bash@0.0.1
-      env:
-          REMOTE_BASH_URL: https://raw.githubusercontent.com/alexyorke/oss_rss/master/libreoffice/downloader.sh
+      - name: Run downloader
+        run: bash $(curl https://raw.githubusercontent.com/alexyorke/oss_rss/master/libreoffice/downloader.sh)
