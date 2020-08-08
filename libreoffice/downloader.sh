@@ -1,5 +1,5 @@
 #!/bin/bash
-apt install rsync;
+apt-get install -y rsync;
 timestamp=$(curl "http://download.documentfoundation.org/TIMESTAMP");
 if [[ $(< TIMESTAMP) != "$timestamp" ]]; then
     echo "$timestamp" > TIMESTAMP;
