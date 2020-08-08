@@ -2,7 +2,7 @@
 echo "File listing";
 echo $(ls);
 timestamp=$(curl "http://download.documentfoundation.org/TIMESTAMP");
-if [[ $(< TIMESTAMP) != "$timestamp" ]]; then
+if [[ $(< ./libreoffice/TIMESTAMP) != "$timestamp" ]]; then
         echo "$timestamp" > ./libreoffice/TIMESTAMP;
 	N=15;
 	(
