@@ -1,6 +1,6 @@
 #!/bin/bash
-sudo apt-get install -y rsync;
-echo $(find .);
+echo "File listing";
+echo $(ls);
 timestamp=$(curl "http://download.documentfoundation.org/TIMESTAMP");
 if [[ $(< TIMESTAMP) != "$timestamp" ]]; then
         echo "$timestamp" > oss_rss/libreoffice/TIMESTAMP;
