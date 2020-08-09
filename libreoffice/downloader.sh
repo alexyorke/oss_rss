@@ -4,7 +4,7 @@ echo $(ls);
 timestamp=$(curl "http://download.documentfoundation.org/TIMESTAMP");
 if [[ $(< ./libreoffice/TIMESTAMP) != "$timestamp" ]]; then
         echo "$timestamp" > ./libreoffice/TIMESTAMP;
-	N=15;
+	N=2;
 	(
 	while read -r url;
 	do
