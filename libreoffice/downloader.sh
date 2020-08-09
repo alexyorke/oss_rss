@@ -4,11 +4,9 @@ echo $(ls);
 timestamp=$(curl "http://download.documentfoundation.org/TIMESTAMP");
 if [[ $(< ./libreoffice/TIMESTAMP) != "$timestamp" ]]; then
         echo "$timestamp" > ./libreoffice/TIMESTAMP;
-	N=2;
 	(
 	while read -r url;
 	do
-		((i=i%N)); ((i++==0)) && wait
 		(if ! curl -s --head  --request GET "${url}" | grep "404 Not Found" &> /dev/null
 		then
 			echo "$url"
