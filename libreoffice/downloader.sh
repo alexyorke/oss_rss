@@ -12,7 +12,7 @@ if [[ $(< ./libreoffice/TIMESTAMP) != "$timestamp" ]]; then
 			echo "$url"
 		fi &)
 	done < <(rsync --dry-run -avz rsync://rsync.documentfoundation.org/tdf-pub/ | awk '{print $5}' | sed -e 's/.*/http:\/\/download.documentfoundation.org\/&\.torrent/')
-	) | grep -vF "flatpak/repository/" > ./libreoffice/all_torrent_links.txt;
+	) | grep -vF "flatpak/repository/" >> ./libreoffice/all_torrent_links.txt;
 	sort -uo ./libreoffice/all_torrent_links.txt ./libreoffice/all_torrent_links.txt;
 	sed 's/\.torrent/\.magnet/g' ./libreoffice/all_torrent_links.txt > ./libreoffice/all_magnet_links.txt;
 
