@@ -1,3 +1,5 @@
+http://download.documentfoundation.org/.magnet
+http://download.documentfoundation.org/1,459,903.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.6/deb/x86_64/LibreOffice_6.4.6.2_Linux_x86-64_deb.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.6/deb/x86_64/LibreOffice_6.4.6.2_Linux_x86-64_deb.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.6/deb/x86_64/LibreOffice_6.4.6.2_Linux_x86-64_deb_helppack_am.tar.gz.asc.magnet
@@ -4052,6 +4054,7 @@ http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-5-re
 http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-5-release-5.0.5.2.log.magnet
 http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-6-release-5.0.6.1.log.magnet
 http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-6-release-5.0.6.2.log.magnet
+http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-6-release-5.0.6.3.log.magnet
 http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-release-5.0.0.0.beta1.log.magnet
 http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-release-5.0.0.0.beta2.log.magnet
 http://download.documentfoundation.org/libreoffice/src/bugs-libreoffice-5-0-release-5.0.0.0.beta3.log.magnet
@@ -8338,3 +8341,4 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.0/win/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.0/win/x86_64/LibreOffice_7.0.0_Win_x64_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.0/win/x86_64/LibreOffice_7.0.0_Win_x64_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.0/win/x86_64/LibreOffice_7.0.0_Win_x64_sdk.msi.magnet
+http://download.documentfoundation.org/speedup.magnet
