@@ -8120,6 +8120,8 @@ http://download.documentfoundation.org/libreoffice/stable/6.4.6/rpm/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/rpm/x86_64/LibreOffice_6.4.6_Linux_x86-64_rpm_langpack_zu.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/rpm/x86_64/LibreOffice_6.4.6_Linux_x86-64_rpm_sdk.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/rpm/x86_64/LibreOffice_6.4.6_Linux_x86-64_rpm_sdk.tar.gz.magnet
+http://download.documentfoundation.org/libreoffice/stable/6.4.6/win.magnet
+http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86/LibreOffice_6.4.6_Win_x86.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86/LibreOffice_6.4.6_Win_x86.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86/LibreOffice_6.4.6_Win_x86_helppack_am.msi.asc.magnet
