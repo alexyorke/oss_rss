@@ -2749,6 +2749,7 @@ http://download.documentfoundation.org/libreoffice/src/4.2.0/libreoffice-help-4.
 http://download.documentfoundation.org/libreoffice/src/4.2.0/libreoffice-help-4.2.0.4.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/4.2.0/libreoffice-translations-4.2.0.4.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/4.2.0/libreoffice-translations-4.2.0.4.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/4.2.1.magnet
 http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-4.2.1.1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-4.2.1.1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-dictionaries-4.2.1.1.tar.xz.asc.magnet
