@@ -2764,6 +2764,7 @@ http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-help-4.
 http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-help-4.2.1.1.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-translations-4.2.1.1.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/4.2.1/libreoffice-translations-4.2.1.1.tar.xz.torrent
+http://download.documentfoundation.org/libreoffice/src/4.2.2.torrent
 http://download.documentfoundation.org/libreoffice/src/4.2.2/libreoffice-4.2.2.1.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/4.2.2/libreoffice-4.2.2.1.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/4.2.2/libreoffice-dictionaries-4.2.2.1.tar.xz.asc.torrent
