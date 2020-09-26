@@ -7616,6 +7616,7 @@ http://download.documentfoundation.org/libreoffice/stable/6.4.5/deb/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/6.4.5/deb/x86_64/LibreOffice_6.4.5_Linux_x86-64_deb_langpack_zu.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.5/deb/x86_64/LibreOffice_6.4.5_Linux_x86-64_deb_sdk.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.5/deb/x86_64/LibreOffice_6.4.5_Linux_x86-64_deb_sdk.tar.gz.magnet
+http://download.documentfoundation.org/libreoffice/stable/6.4.5/mac.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.5/mac/x86_64.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.5/mac/x86_64/LibreOffice_6.4.5_MacOS_x86-64.dmg.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.5/mac/x86_64/LibreOffice_6.4.5_MacOS_x86-64.dmg.magnet
