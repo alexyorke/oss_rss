@@ -3821,6 +3821,7 @@ http://download.documentfoundation.org/libreoffice/portable/6.4.6/LibreOfficePor
 http://download.documentfoundation.org/libreoffice/portable/7.0.0.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.0/LibreOfficePortable_7.0.0_MultilingualAll.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.0/LibreOfficePortable_7.0.0_MultilingualStandard.paf.exe.torrent
+http://download.documentfoundation.org/libreoffice/portable/7.0.1.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.1/LibreOfficePortable_7.0.1_MultilingualAll.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.1/LibreOfficePortable_7.0.1_MultilingualStandard.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/src.torrent
@@ -4554,6 +4555,7 @@ http://download.documentfoundation.org/libreoffice/src/5.4.3/libreoffice-help-5.
 http://download.documentfoundation.org/libreoffice/src/5.4.3/libreoffice-help-5.4.3.2.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.3/libreoffice-translations-5.4.3.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.3/libreoffice-translations-5.4.3.2.tar.xz.torrent
+http://download.documentfoundation.org/libreoffice/src/5.4.4.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-5.4.4.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-5.4.4.2.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-dictionaries-5.4.4.2.tar.xz.asc.torrent
@@ -4562,6 +4564,7 @@ http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-help-5.
 http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-help-5.4.4.2.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-translations-5.4.4.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.4/libreoffice-translations-5.4.4.2.tar.xz.torrent
+http://download.documentfoundation.org/libreoffice/src/5.4.5.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.5/libreoffice-5.4.5.1.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.5/libreoffice-5.4.5.1.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.5/libreoffice-dictionaries-5.4.5.1.tar.xz.asc.torrent
