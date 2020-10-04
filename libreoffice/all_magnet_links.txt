@@ -6597,6 +6597,7 @@ http://download.documentfoundation.org/libreoffice/src/4.3.0/libreoffice-help-4.
 http://download.documentfoundation.org/libreoffice/src/4.3.0/libreoffice-help-4.3.0.4.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.0/libreoffice-translations-4.3.0.4.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.0/libreoffice-translations-4.3.0.4.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/4.3.1.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-4.3.1.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-4.3.1.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-dictionaries-4.3.1.2.tar.xz.asc.magnet
@@ -6605,6 +6606,7 @@ http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-help-4.
 http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-help-4.3.1.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-translations-4.3.1.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.1/libreoffice-translations-4.3.1.2.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/4.3.2.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.2/libreoffice-4.3.2.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.2/libreoffice-4.3.2.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/4.3.2/libreoffice-dictionaries-4.3.2.2.tar.xz.asc.magnet
