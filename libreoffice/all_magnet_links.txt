@@ -6778,6 +6778,7 @@ http://download.documentfoundation.org/libreoffice/src/5.0.4/libreoffice-help-5.
 http://download.documentfoundation.org/libreoffice/src/5.0.4/libreoffice-help-5.0.4.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/5.0.4/libreoffice-translations-5.0.4.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/5.0.4/libreoffice-translations-5.0.4.2.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/5.0.5.magnet
 http://download.documentfoundation.org/libreoffice/src/5.0.5/libreoffice-5.0.5.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/5.0.5/libreoffice-5.0.5.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/5.0.5/libreoffice-dictionaries-5.0.5.2.tar.xz.asc.magnet
