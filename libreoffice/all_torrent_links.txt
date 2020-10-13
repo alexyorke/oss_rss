@@ -6913,6 +6913,7 @@ http://download.documentfoundation.org/libreoffice/src/5.2.4/libreoffice-transla
 http://download.documentfoundation.org/libreoffice/src/5.2.4/libreoffice-translations-5.2.4.2-buildfix1.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.2.4/libreoffice-translations-5.2.4.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.2.4/libreoffice-translations-5.2.4.2.tar.xz.torrent
+http://download.documentfoundation.org/libreoffice/src/5.2.5.torrent
 http://download.documentfoundation.org/libreoffice/src/5.2.5/libreoffice-5.2.5.1.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.2.5/libreoffice-5.2.5.1.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.2.5/libreoffice-dictionaries-5.2.5.1.tar.xz.asc.torrent
