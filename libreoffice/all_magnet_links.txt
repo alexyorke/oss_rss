@@ -5373,6 +5373,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/deb/x86_64/Li
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/deb/x86_64/LibreOffice_7.0.2.2_Linux_x86-64_deb_langpack_zu.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/deb/x86_64/LibreOffice_7.0.2.2_Linux_x86-64_deb_sdk.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/deb/x86_64/LibreOffice_7.0.2.2_Linux_x86-64_deb_sdk.tar.gz.magnet
+http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/mac/x86_64.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/mac/x86_64/LibreOffice_7.0.2.2_MacOS_x86-64.dmg.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/mac/x86_64/LibreOffice_7.0.2.2_MacOS_x86-64.dmg.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/mac/x86_64/LibreOffice_7.0.2.2_MacOS_x86-64_langpack_af.dmg.asc.magnet
