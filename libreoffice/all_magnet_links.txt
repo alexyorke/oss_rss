@@ -7495,6 +7495,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/win/x86_64/Li
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/win/x86_64/LibreOffice_7.0.2.2_Win_x64_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/win/x86_64/LibreOffice_7.0.2.2_Win_x64_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.2/win/x86_64/LibreOffice_7.0.2.2_Win_x64_sdk.msi.magnet
+http://download.documentfoundation.org/libreoffice/_testing_/7.0.3.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.3/deb/x86_64/LibreOffice_7.0.3.1_Linux_x86-64_deb.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.3/deb/x86_64/LibreOffice_7.0.3.1_Linux_x86-64_deb.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.0.3/deb/x86_64/LibreOffice_7.0.3.1_Linux_x86-64_deb_helppack_am.tar.gz.asc.magnet
