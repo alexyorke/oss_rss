@@ -10863,6 +10863,7 @@ http://download.documentfoundation.org/libreoffice/src/5.4.7/libreoffice-help-5.
 http://download.documentfoundation.org/libreoffice/src/5.4.7/libreoffice-online-5.4.7.2.tar.gz.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.7/libreoffice-translations-5.4.7.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/5.4.7/libreoffice-translations-5.4.7.2.tar.xz.torrent
+http://download.documentfoundation.org/libreoffice/src/6.0.0.torrent
 http://download.documentfoundation.org/libreoffice/src/6.0.0/libreoffice-6.0.0.3.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/6.0.0/libreoffice-6.0.0.3.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/6.0.0/libreoffice-dictionaries-6.0.0.3.tar.xz.asc.torrent
