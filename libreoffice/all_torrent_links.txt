@@ -10089,6 +10089,7 @@ http://download.documentfoundation.org/libreoffice/portable/7.0.1.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.1/LibreOfficePortable_7.0.1_MultilingualAll.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.1/LibreOfficePortable_7.0.1_MultilingualStandard.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/src.torrent
+http://download.documentfoundation.org/libreoffice/src/3.5.7.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-binfilter-3.5.7.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-binfilter-3.5.7.2.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-core-3.5.7.2.tar.xz.asc.torrent
@@ -10099,6 +10100,7 @@ http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-help-3.
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-help-3.5.7.2.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-translations-3.5.7.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-translations-3.5.7.2.tar.xz.torrent
+http://download.documentfoundation.org/libreoffice/src/3.6.2.torrent
 http://download.documentfoundation.org/libreoffice/src/3.6.2/libreoffice-binfilter-3.6.2.2.tar.xz.asc.torrent
 http://download.documentfoundation.org/libreoffice/src/3.6.2/libreoffice-binfilter-3.6.2.2.tar.xz.torrent
 http://download.documentfoundation.org/libreoffice/src/3.6.2/libreoffice-core-3.6.2.2.tar.xz.asc.torrent
