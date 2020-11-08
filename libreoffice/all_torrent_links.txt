@@ -3448,6 +3448,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86/Libre
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86/LibreOffice_6.4.7.2_Win_x86_helppack_zh-TW.msi.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86/LibreOffice_6.4.7.2_Win_x86_sdk.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86/LibreOffice_6.4.7.2_Win_x86_sdk.msi.torrent
+http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86_64.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86_64/LibreOffice_6.4.7.1_Win_x64.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86_64/LibreOffice_6.4.7.1_Win_x64.msi.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.7/win/x86_64/LibreOffice_6.4.7.1_Win_x64_helppack_am.msi.asc.torrent
