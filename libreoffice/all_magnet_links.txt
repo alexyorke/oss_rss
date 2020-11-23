@@ -9750,6 +9750,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/Li
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Linux_x86-64_rpm_langpack_zu.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Linux_x86-64_rpm_sdk.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Linux_x86-64_rpm_sdk.tar.gz.magnet
+http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86.msi.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_helppack_am.msi.asc.magnet
@@ -9886,6 +9887,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/Libre
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_sdk.msi.magnet
+http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Win_x64.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Win_x64.msi.magnet
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Win_x64_helppack_am.msi.asc.magnet

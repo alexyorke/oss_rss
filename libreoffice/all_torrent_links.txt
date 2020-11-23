@@ -9750,6 +9750,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/Li
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Linux_x86-64_rpm_langpack_zu.tar.gz.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Linux_x86-64_rpm_sdk.tar.gz.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/rpm/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Linux_x86-64_rpm_sdk.tar.gz.torrent
+http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86.msi.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_helppack_am.msi.asc.torrent
@@ -9886,6 +9887,7 @@ http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/Libre
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_helppack_zh-TW.msi.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_sdk.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86/LibreOfficeDev_7.1.0.0.alpha1_Win_x86_sdk.msi.torrent
+http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Win_x64.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Win_x64.msi.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/7.1.0/win/x86_64/LibreOfficeDev_7.1.0.0.alpha1_Win_x64_helppack_am.msi.asc.torrent
