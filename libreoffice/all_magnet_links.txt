@@ -27266,6 +27266,7 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOff
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOffice_7.0.3_Win_x86_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOffice_7.0.3_Win_x86_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOffice_7.0.3_Win_x86_sdk.msi.magnet
+http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/LibreOffice_7.0.3_Win_x64.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/LibreOffice_7.0.3_Win_x64.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/LibreOffice_7.0.3_Win_x64_helppack_am.msi.asc.magnet
