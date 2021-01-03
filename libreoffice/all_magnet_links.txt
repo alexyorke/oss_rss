@@ -15900,6 +15900,7 @@ http://download.documentfoundation.org/libreoffice/src/6.0.1/libreoffice-help-6.
 http://download.documentfoundation.org/libreoffice/src/6.0.1/libreoffice-help-6.0.1.1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.1/libreoffice-translations-6.0.1.1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.1/libreoffice-translations-6.0.1.1.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/6.0.2.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-6.0.2.1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-6.0.2.1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-dictionaries-6.0.2.1.tar.xz.asc.magnet
@@ -15909,6 +15910,7 @@ http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-help-6.
 http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-online-6.0.2.1.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-translations-6.0.2.1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.2/libreoffice-translations-6.0.2.1.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/6.0.3.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.3/libreoffice-6.0.3.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.3/libreoffice-6.0.3.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.0.3/libreoffice-dictionaries-6.0.3.2.tar.xz.asc.magnet
@@ -15976,6 +15978,7 @@ http://download.documentfoundation.org/libreoffice/src/6.1.1/libreoffice-help-6.
 http://download.documentfoundation.org/libreoffice/src/6.1.1/libreoffice-online-6.1.1.2.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.1.1/libreoffice-translations-6.1.1.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.1.1/libreoffice-translations-6.1.1.2.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/6.1.2.magnet
 http://download.documentfoundation.org/libreoffice/src/6.1.2/libreoffice-6.1.2.1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.1.2/libreoffice-6.1.2.1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.1.2/libreoffice-dictionaries-6.1.2.1.tar.xz.asc.magnet
@@ -16124,6 +16127,7 @@ http://download.documentfoundation.org/libreoffice/src/6.3.1/libreoffice-help-6.
 http://download.documentfoundation.org/libreoffice/src/6.3.1/libreoffice-help-6.3.1.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.3.1/libreoffice-translations-6.3.1.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.3.1/libreoffice-translations-6.3.1.2.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/6.3.2.magnet
 http://download.documentfoundation.org/libreoffice/src/6.3.2/libreoffice-6.3.2.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.3.2/libreoffice-6.3.2.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.3.2/libreoffice-dictionaries-6.3.2.2.tar.xz.asc.magnet
@@ -26761,6 +26765,7 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.3/mac/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/mac/x86_64/LibreOffice_7.0.3_MacOS_x86-64_langpack_zu.dmg.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/mac/x86_64/LibreOffice_7.0.3_MacOS_x86-64_sdk.dmg.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/mac/x86_64/LibreOffice_7.0.3_MacOS_x86-64_sdk.dmg.magnet
+http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64/LibreOffice_7.0.3_Linux_x86-64_rpm.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64/LibreOffice_7.0.3_Linux_x86-64_rpm.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64/LibreOffice_7.0.3_Linux_x86-64_rpm_helppack_am.tar.gz.asc.magnet
