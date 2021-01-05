@@ -27406,6 +27406,9 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/LibreOffice_7.0.3_Win_x64_helppack_zh-TW.msi.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/LibreOffice_7.0.3_Win_x64_sdk.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86_64/LibreOffice_7.0.3_Win_x64_sdk.msi.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.4.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/LibreOffice_7.0.4_Linux_x86-64_deb.tar.gz.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/LibreOffice_7.0.4_Linux_x86-64_deb.tar.gz.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/LibreOffice_7.0.4_Linux_x86-64_deb_helppack_am.tar.gz.asc.torrent
