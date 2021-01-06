@@ -1,5 +1,6 @@
 http://download.documentfoundation.org/.torrent
 http://download.documentfoundation.org/1,459,903.torrent
+http://download.documentfoundation.org/1,463,939.torrent
 http://download.documentfoundation.org/TIMESTAMP.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.6/deb/x86_64/LibreOffice_6.4.6.2_Linux_x86-64_deb.tar.gz.asc.torrent
 http://download.documentfoundation.org/libreoffice/_testing_/6.4.6/deb/x86_64/LibreOffice_6.4.6.2_Linux_x86-64_deb.tar.gz.torrent
@@ -15099,6 +15100,9 @@ http://download.documentfoundation.org/libreoffice/portable/7.0.0/LibreOfficePor
 http://download.documentfoundation.org/libreoffice/portable/7.0.1.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.1/LibreOfficePortable_7.0.1_MultilingualAll.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/portable/7.0.1/LibreOfficePortable_7.0.1_MultilingualStandard.paf.exe.torrent
+http://download.documentfoundation.org/libreoffice/portable/7.0.4.torrent
+http://download.documentfoundation.org/libreoffice/portable/7.0.4/LibreOfficePortable_7.0.4_MultilingualAll.paf.exe.torrent
+http://download.documentfoundation.org/libreoffice/portable/7.0.4/LibreOfficePortable_7.0.4_MultilingualStandard.paf.exe.torrent
 http://download.documentfoundation.org/libreoffice/src.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7.torrent
 http://download.documentfoundation.org/libreoffice/src/3.5.7/libreoffice-binfilter-3.5.7.2.tar.xz.asc.torrent
@@ -27137,6 +27141,7 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64/LibreOffice_7.0.3_Linux_x86-64_rpm_sdk.tar.gz.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/rpm/x86_64/LibreOffice_7.0.3_Linux_x86-64_rpm_sdk.tar.gz.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOffice_7.0.3_Win_x86.msi.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOffice_7.0.3_Win_x86.msi.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/win/x86/LibreOffice_7.0.3_Win_x86_helppack_am.msi.asc.torrent
@@ -27779,6 +27784,8 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/LibreOffice_7.0.4_Linux_x86-64_deb_langpack_zu.tar.gz.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/LibreOffice_7.0.4_Linux_x86-64_deb_sdk.tar.gz.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/deb/x86_64/LibreOffice_7.0.4_Linux_x86-64_deb_sdk.tar.gz.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/LibreOffice_7.0.4_MacOS_x86-64.dmg.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/LibreOffice_7.0.4_MacOS_x86-64.dmg.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/LibreOffice_7.0.4_MacOS_x86-64_langpack_af.dmg.asc.torrent
@@ -28019,6 +28026,7 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/LibreOffice_7.0.4_MacOS_x86-64_langpack_zu.dmg.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/LibreOffice_7.0.4_MacOS_x86-64_sdk.dmg.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/mac/x86_64/LibreOffice_7.0.4_MacOS_x86-64_sdk.dmg.torrent
+http://download.documentfoundation.org/libreoffice/stable/7.0.4/rpm.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/rpm/x86_64/LibreOffice_7.0.4_Linux_x86-64_rpm.tar.gz.asc.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/rpm/x86_64/LibreOffice_7.0.4_Linux_x86-64_rpm.tar.gz.torrent
 http://download.documentfoundation.org/libreoffice/stable/7.0.4/rpm/x86_64/LibreOffice_7.0.4_Linux_x86-64_rpm_helppack_am.tar.gz.asc.torrent
