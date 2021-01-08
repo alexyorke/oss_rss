@@ -15094,6 +15094,8 @@ http://download.documentfoundation.org/libreoffice/portable/6.4.5/LibreOfficePor
 http://download.documentfoundation.org/libreoffice/portable/6.4.6.magnet
 http://download.documentfoundation.org/libreoffice/portable/6.4.6/LibreOfficePortablePrevious_6.4.6_MultilingualAll.paf.exe.magnet
 http://download.documentfoundation.org/libreoffice/portable/6.4.6/LibreOfficePortablePrevious_6.4.6_MultilingualStandard.paf.exe.magnet
+http://download.documentfoundation.org/libreoffice/portable/6.4.7/LibreOfficePortablePrevious_6.4.7_MultilingualAll.paf.exe.magnet
+http://download.documentfoundation.org/libreoffice/portable/6.4.7/LibreOfficePortablePrevious_6.4.7_MultilingualStandard.paf.exe.magnet
 http://download.documentfoundation.org/libreoffice/portable/7.0.0.magnet
 http://download.documentfoundation.org/libreoffice/portable/7.0.0/LibreOfficePortable_7.0.0_MultilingualAll.paf.exe.magnet
 http://download.documentfoundation.org/libreoffice/portable/7.0.0/LibreOfficePortable_7.0.0_MultilingualStandard.paf.exe.magnet
