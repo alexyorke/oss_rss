@@ -17346,6 +17346,7 @@ http://download.documentfoundation.org/libreoffice/src/6.2.6/libreoffice-help-6.
 http://download.documentfoundation.org/libreoffice/src/6.2.6/libreoffice-help-6.2.6.2.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.2.6/libreoffice-translations-6.2.6.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.2.6/libreoffice-translations-6.2.6.2.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/6.2.7.magnet
 http://download.documentfoundation.org/libreoffice/src/6.2.7/libreoffice-6.2.7.1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/6.2.7/libreoffice-6.2.7.1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/6.2.7/libreoffice-dictionaries-6.2.7.1.tar.xz.asc.magnet
@@ -17562,6 +17563,7 @@ http://download.documentfoundation.org/libreoffice/src/7.0.4/libreoffice-transla
 http://download.documentfoundation.org/libreoffice/src/7.0.4/libreoffice-translations-7.0.4.1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/7.0.4/libreoffice-translations-7.0.4.2.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/7.0.4/libreoffice-translations-7.0.4.2.tar.xz.magnet
+http://download.documentfoundation.org/libreoffice/src/7.1.0.magnet
 http://download.documentfoundation.org/libreoffice/src/7.1.0/libreoffice-7.1.0.0.alpha1.tar.xz.asc.magnet
 http://download.documentfoundation.org/libreoffice/src/7.1.0/libreoffice-7.1.0.0.alpha1.tar.xz.magnet
 http://download.documentfoundation.org/libreoffice/src/7.1.0/libreoffice-7.1.0.0.beta1.tar.xz.asc.magnet
@@ -22421,6 +22423,8 @@ http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86_64/LibreOffice_6.4.6_Win_x64_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86_64/LibreOffice_6.4.6_Win_x64_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.6/win/x86_64/LibreOffice_6.4.6_Win_x64_sdk.msi.magnet
+http://download.documentfoundation.org/libreoffice/stable/6.4.7/deb.magnet
+http://download.documentfoundation.org/libreoffice/stable/6.4.7/deb/x86.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/deb/x86_64/LibreOffice_6.4.7_Linux_x86-64_deb.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/deb/x86_64/LibreOffice_6.4.7_Linux_x86-64_deb.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/deb/x86_64/LibreOffice_6.4.7_Linux_x86-64_deb_helppack_am.tar.gz.asc.magnet
@@ -23524,6 +23528,7 @@ http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86/LibreOff
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86/LibreOffice_6.4.7_Win_x86_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86/LibreOffice_6.4.7_Win_x86_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86/LibreOffice_6.4.7_Win_x86_sdk.msi.magnet
+http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86_64.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86_64/LibreOffice_6.4.7_Win_x64.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86_64/LibreOffice_6.4.7_Win_x64.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/6.4.7/win/x86_64/LibreOffice_6.4.7_Win_x64_helppack_am.msi.asc.magnet
@@ -27420,6 +27425,7 @@ http://download.documentfoundation.org/libreoffice/stable/7.0.2/win/x86_64/Libre
 http://download.documentfoundation.org/libreoffice/stable/7.0.2/win/x86_64/LibreOffice_7.0.2_Win_x64_helppack_zh-TW.msi.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.2/win/x86_64/LibreOffice_7.0.2_Win_x64_sdk.msi.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.2/win/x86_64/LibreOffice_7.0.2_Win_x64_sdk.msi.magnet
+http://download.documentfoundation.org/libreoffice/stable/7.0.3/deb/x86.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/deb/x86_64/LibreOffice_7.0.3_Linux_x86-64_deb.tar.gz.asc.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/deb/x86_64/LibreOffice_7.0.3_Linux_x86-64_deb.tar.gz.magnet
 http://download.documentfoundation.org/libreoffice/stable/7.0.3/deb/x86_64/LibreOffice_7.0.3_Linux_x86-64_deb_helppack_am.tar.gz.asc.magnet
